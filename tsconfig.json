@@ -11,7 +11,7 @@
     "lib": ["es2015", "dom"]
   },
   "files": [
-    "./lib/ng4-paginator.ts"
+    "./lib/ng4-auto-adjustable-scrolling-div.ts"
   ],
   "angularCompilerOptions": {
     "skipTemplateCodegen": true
