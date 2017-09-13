@@ -14,7 +14,7 @@ This is an angular 4 module that allows for adding a auto adjustable and scrolli
 <li>In your component template add the following directive to your div:</li>
 <i>
 <p>
-&lt;div style="padding:0;overflow-y: scroll;" 
+&lt;div 
     ng4AutoAdjustableScrollingDiv 
     [defaultHeight]="the default height of the div (by default it is window.innerHeight)" 
     [topPadding]="the top padding for the div content (default value is 0)" 
