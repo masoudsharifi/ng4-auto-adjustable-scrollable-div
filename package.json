@@ -1,7 +1,7 @@
 {
   "name": "ng4-auto-adjustable-scrolling-div",
   "version": "1.0.0",
-  "description": "This is an angular module to let you add paginator to your lists",
+  "description": "This is an angular module to let you turn a div into an adjustable scrollable directive div",
   "main": "ng4-auto-adjustable-scrolling-div.umd.js",
   "jsnext:main": "ng4-auto-adjustable-scrolling-div.esm.js",
   "module": "ng4-auto-adjustable-scrolling-div.esm.js",
