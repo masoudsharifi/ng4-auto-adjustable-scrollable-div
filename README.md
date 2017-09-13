@@ -22,6 +22,16 @@ This is an angular 4 module that allows for adding a auto adjustable and scrolli
     [rightPadding]="the right padding for the div content (default value is 0)" 
     [bottomPadding]="the bottom padding for the div content (default value is 0)" 
     [offSet]="this is the offSet from the bottom of the page (default offSet is 200)"&gt;&lt;/div&gt;
+<br/>
+Example:<br/>
+&lt;div 
+    ng4AutoAdjustableScrollingDiv 
+    [defaultHeight]="600" 
+    [topPadding]="10" 
+    [leftPadding]="15" 
+    [rightPadding]="15" 
+    [bottomPadding]="10" 
+    [offSet]="120"&gt;&lt;/div&gt;
 </p>
 </i><br/>
 </u>
